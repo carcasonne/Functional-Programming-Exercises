@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EeEfP6cbip8Hc1bHzj971ZPGkFD5jJbdIcezrOeKq9CQHoEX07V2EH82fjmbyFfUg+m29wd0nBtXK1hGjdZ8YQ==",
+  "success": true,
+  "projectFilePath": "/Users/sonne/Desktop/Uni stuff/Intro to Func/Assignment1/Assignment1.fsproj",
+  "expectedPackageFiles": [
+    "/Users/sonne/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
