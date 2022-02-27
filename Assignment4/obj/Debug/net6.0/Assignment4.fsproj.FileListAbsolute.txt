@@ -24,3 +24,4 @@
 /Users/sonne/Desktop/Uni stuff/Intro to Func/Assignment4/obj/Debug/net6.0/Assignment4.dll
 /Users/sonne/Desktop/Uni stuff/Intro to Func/Assignment4/obj/Debug/net6.0/Assignment4.pdb
 /Users/sonne/Desktop/Uni stuff/Intro to Func/Assignment4/obj/Debug/net6.0/Assignment4.genruntimeconfig.cache
+/Users/sonne/Desktop/Uni stuff/Intro to Func/Assignment4/obj/Debug/net6.0/Assignment4.fsproj.CoreCompileInputs.cache
